@@ -1,1 +1,538 @@
-{}
+{
+  "site": {
+    "name": "Militsioner Wiki en Español",
+    "shortName": "Militsioner",
+    "tagline": "Guías de escape, trucos de sigilo y mecánicas del policía gigante",
+    "description": "Tu guía definitiva de Militsioner: rutas de escape, estrategias de sigilo, comportamiento del policía gigante, soluciones de puzles, interacciones con PNJ y novedades de la demo.",
+    "legalNotice": "Wiki de fans no oficial. Sin relación con TALLBOYS. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guías",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "story": "Historia",
+    "platforms": "Plataformas",
+    "community": "Comunidad",
+    "media": "Multimedia"
+  },
+  "home": {
+    "meta": {
+      "title": "Militsioner Wiki - Guía de escape, jugabilidad y trucos",
+      "description": "Descubre Militsioner con guías de escape, trucos de sigilo, el comportamiento del policía gigante, soluciones de puzles, mecánicas de juego, novedades de la demo y las últimas noticias del lanzamiento."
+    },
+    "hero": {
+      "eyebrow": "Sim inmersivo de sigilo atmosférico",
+      "title": "Militsioner Wiki",
+      "description": "Explora un pueblo surrealista vigilado por un policía colosal. Descubre rutas de escape, estrategias de sigilo, soluciones de puzles, interacciones con PNJ, mecánicas de juego y las últimas novedades de la demo y el lanzamiento de Militsioner.",
+      "stats": [
+        "Lanzamiento en 2027",
+        "98% de reseñas positivas de la demo",
+        "176 reseñas de la demo",
+        "16 idiomas en la demo"
+      ],
+      "primaryCta": "Guía de escape para principiantes",
+      "secondaryCta": "Trucos de sigilo y escape",
+      "tertiaryCta": "Añadir a deseados en Steam",
+      "videoLabel": "Jugabilidad oficial de Militsioner"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Militsioner",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Entiende cómo funcionan la observación, la atención y el estado de ánimo del policía gigante antes de intentar tu primer escape."
+        },
+        {
+          "number": "2",
+          "title": "Cómo escapar",
+          "description": "Planifica una ruta para salir del pueblo, sincroniza tus movimientos con el policía colosal y evita los errores que te devuelven a la celda."
+        },
+        {
+          "number": "3",
+          "title": "Comportamiento del policía gigante",
+          "description": "Lee sus emociones, aprende qué recuerda y convierte su estado de ánimo en oportunidades para escabullirte."
+        },
+        {
+          "number": "4",
+          "title": "Descargar la demo",
+          "description": "Consigue la demo gratuita de Steam que se publicó el 8 de octubre de 2026 y comprueba si tu PC puede mover Militsioner."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Cómo escapar",
+        "Policía gigante",
+        "Todos los finales"
+      ],
+      "cards": [
+        {
+          "badge": "Principiantes",
+          "title": "Guía para principiantes de Militsioner",
+          "description": "Lo esencial para tu primera hora: atención, mecánicas de voz y un plan para no quedar bajo la mirada del gigante.",
+          "href": "/guide/militsioner-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Militsioner: cómo escapar",
+          "description": "Lee el estado de ánimo del policía colosal, elige la ruta correcta y prepárate para un pueblo que lo recuerda todo.",
+          "href": "/guide/militsioner-how-to-escape"
+        },
+        {
+          "badge": "Popular",
+          "title": "Militsioner: el policía gigante",
+          "description": "Quién es el policía colosal, cómo reacciona, qué recuerda y cómo superarlo.",
+          "href": "/characters/militsioner-giant-policeman"
+        },
+        {
+          "badge": "Popular",
+          "title": "Militsioner: todos los finales",
+          "description": "Todas las rutas de escape y salidas secretas, desde una salida limpia en tren hasta el final romántico.",
+          "href": "/guide/militsioner-all-endings"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Militsioner: guía paso a paso",
+          "description": "Un bucle de escape paso a paso con tiempos de sigilo, comandos de voz y cómo colarte junto al gigante.",
+          "href": "/guide/militsioner-walkthrough"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Militsioner: código de la caja fuerte",
+          "description": "Qué está confirmado, qué reportan los jugadores y cómo abrir cajas fuertes en el simulador de escape del policía gigante.",
+          "href": "/mechanics/militsioner-safe-code"
+        },
+        {
+          "badge": "Popular",
+          "title": "Militsioner: fecha de lanzamiento",
+          "description": "La ventana de lanzamiento de 2027, la demo gratuita, el acceso al playtest y todo lo confirmado hasta ahora.",
+          "href": "/guide/militsioner-release-date"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Militsioner: requisitos del sistema",
+          "description": "Los requisitos mínimos publicados, lo que aún no se ha anunciado y cómo comprobar si tu PC puede moverlo.",
+          "href": "/platforms/militsioner-system-requirements"
+        },
+        {
+          "badge": "Popular",
+          "title": "Militsioner en Steam",
+          "description": "Añade el juego completo a deseados, sigue las novedades de la demo y consulta la ficha oficial de la tienda.",
+          "href": "/platforms/militsioner-steam"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Militsioner?",
+      "paragraphs": [
+        "Militsioner es un sim inmersivo en primera persona del desarrollador TALLBOYS y la editora CRITICAL REFLEX. Despiertas en un pueblo surrealista bajo arresto por un crimen que no recuerdas, mientras un policía colosal vigila cada uno de tus movimientos desde los tejados. El combate no es la respuesta: escapas leyendo su estado de ánimo, halagándolo, engañándolo o incluso conquistándolo mientras buscas la forma de salir del pueblo.",
+        "La demo gratuita se publicó en Steam el 8 de octubre de 2026 y el juego completo está previsto para 2027. Nuestra wiki cubre el bucle de escape, el comportamiento del policía gigante, las relaciones con los PNJ, las soluciones de los puzles y todas las rutas para salir del pueblo, con trucos probados en la demo y guías paso a paso."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "TALLBOYS"
+        },
+        {
+          "label": "Editora",
+          "value": "CRITICAL REFLEX"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Género",
+          "value": "Sim inmersivo"
+        },
+        {
+          "label": "Ventana de lanzamiento",
+          "value": "2027"
+        },
+        {
+          "label": "Salida de la demo",
+          "value": "8 oct. 2026"
+        },
+        {
+          "label": "Valoración de la demo",
+          "value": "98% positivas"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Militsioner",
+      "description": "Consulta todos los sistemas de Militsioner en un solo lugar, desde lo básico de la demo y las rutas de escape hasta los estados de ánimo del policía gigante, las relaciones con los PNJ y los requisitos del sistema.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de la demo de Militsioner",
+          "description": "Ayuda a los jugadores a empezar con la demo gratuita: cómo conseguirla en Steam, entender los objetivos iniciales y empezar a explorar el pueblo. Explica la premisa básica del escape, las interacciones clave y lo que conviene saber antes de empezar un intento nuevo.",
+          "href": "/guide/militsioner-demo-download",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Descarga la demo gratuita de Militsioner desde su página de Steam y ejecútala desde tu biblioteca."
+            },
+            {
+              "label": "2",
+              "detail": "Mira el arresto inicial que plantea el escape y presenta el pueblo."
+            },
+            {
+              "label": "3",
+              "detail": "Prueba lo básico: caminar, interactuar y esconderte del policía colosal."
+            },
+            {
+              "label": "4",
+              "detail": "Aprende cómo reacciona el gigante a tu voz y tus movimientos antes de comprometerte con un plan."
+            },
+            {
+              "label": "5",
+              "detail": "Reconocé el pueblo y anota puertas cerradas, zonas seguras y objetos útiles para una partida posterior."
+            },
+            {
+              "label": "6",
+              "detail": "Revisa la página de Steam en busca de notas del parche, porque las versiones de la demo cambian a menudo."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de escape de Militsioner",
+          "description": "Cubre el objetivo principal de escapar del pueblo evitando al policía gigante que vigila tus acciones. Explica cómo reconocer rutas de escape, planificar movimientos, usar recursos y adaptarte cuando un plan se desmorona.",
+          "href": "/guide/militsioner-how-to-escape",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Aprende el plano del pueblo antes de llamar la atención."
+            },
+            {
+              "label": "2",
+              "detail": "Lee el estado de ánimo del policía colosal y muévete cuando esté tranquilo."
+            },
+            {
+              "label": "3",
+              "detail": "Reúne herramientas, dinero y documentos que desbloquean nuevas opciones de escape."
+            },
+            {
+              "label": "4",
+              "detail": "Elige una ruta: la estación de tren, los túneles de drenaje o una salida oculta."
+            },
+            {
+              "label": "5",
+              "detail": "Adáptate cuando los planes fallen y el gigante se acerque a tu posición."
+            },
+            {
+              "label": "6",
+              "detail": "Guarda lo aprendido y vuelve a intentarlo con una ruta más limpia."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Mecánicas de juego de Militsioner",
+          "description": "Explica las mecánicas centrales del sim inmersivo, como el sigilo, la exploración, el robo, el comercio, los allanamientos y la interacción con el entorno, y cómo las decisiones del jugador afectan al pueblo y a las oportunidades de escape.",
+          "href": "/guide/militsioner-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sigilo",
+              "detail": "Mantente fuera de la línea de visión del gigante y muévete cuando aparte la mirada."
+            },
+            {
+              "label": "Comercio",
+              "detail": "Intercambia bienes con los vecinos para conseguir dinero y objetos útiles."
+            },
+            {
+              "label": "Soborno",
+              "detail": "Paga a la persona adecuada para abrir puertas o conseguir información."
+            },
+            {
+              "label": "Allanamiento",
+              "detail": "Elige el momento para entrar en casas, tiendas y oficinas cerradas."
+            },
+            {
+              "label": "Voz",
+              "detail": "Usa el habla para halagar, engañar o provocar al policía colosal."
+            },
+            {
+              "label": "Exploración",
+              "detail": "Registra cada edificio en busca de llaves, documentos y rutas ocultas."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía del policía gigante de Militsioner",
+          "description": "Presenta al policía gigante como la amenaza central y explica cómo sus emociones y reacciones condicionan tus intentos de escape: observación, evitar su atención, gestionar su estado de ánimo y saber cuándo esconderte o cambiar de plan.",
+          "href": "/characters/militsioner-giant-policeman",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Estados de ánimo",
+              "detail": "Su estado emocional decide con cuánta agresividad te vigila."
+            },
+            {
+              "label": "Memoria",
+              "detail": "Recuerda lo que hiciste en partidas anteriores y reacciona a ello."
+            },
+            {
+              "label": "Mirada",
+              "detail": "Rompe la línea de visión pronto o te seguirá por todo el pueblo."
+            },
+            {
+              "label": "Ira",
+              "detail": "Provocarlo cierra opciones de escape e inicia una persecución."
+            },
+            {
+              "label": "Halagos",
+              "detail": "Los elogios y los regalos pueden calmarlo cuando está tenso."
+            },
+            {
+              "label": "Esconderse",
+              "detail": "Usa callejones, interiores y tejados para desviar su atención."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de PNJ y relaciones de Militsioner",
+          "description": "Explica cómo interactuar con los vecinos mediante diálogos, regalos, sobornos y otras decisiones, y cómo el estado de ánimo y los horarios diarios de los personajes influyen en las interacciones y abren rutas alternativas para salir del pueblo.",
+          "href": "/mechanics/militsioner-romance",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Diálogo",
+              "detail": "Habla con los vecinos para desbloquear objetivos secundarios y pistas."
+            },
+            {
+              "label": "Regalos",
+              "detail": "Entrega objetos que encajen con el estado de ánimo del personaje para ganar confianza."
+            },
+            {
+              "label": "Sobornos",
+              "detail": "El dinero y los favores abren puertas que el sigilo no puede."
+            },
+            {
+              "label": "Flores",
+              "detail": "Recoge flores para avanzar en la ruta romántica con el gigante."
+            },
+            {
+              "label": "Horarios",
+              "detail": "Sigue las rutinas diarias para encontrar a los personajes en el momento adecuado."
+            },
+            {
+              "label": "Confianza",
+              "detail": "El nivel de relación cambia los finales que tienes disponibles."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Rutas de escape de Militsioner",
+          "description": "Organiza las formas conocidas de salir del pueblo, desde la estación de tren y los túneles de drenaje hasta las salidas ocultas y el final romántico, y clasifícalas según su fiabilidad una vez tienes la preparación adecuada.",
+          "href": "/guide/militsioner-all-endings",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Salida de la estación de tren: la forma más limpia y confirmada de irte cuando tu historial está limpio."
+            },
+            {
+              "label": "A",
+              "detail": "Túneles de drenaje: fiables cuando controlas la inundación gestionando el ánimo del gigante."
+            },
+            {
+              "label": "B",
+              "detail": "Salidas ocultas y rutas secretas: potentes, pero fáciles de pasar por alto sin explorar."
+            },
+            {
+              "label": "C",
+              "detail": "Ruta romántica: lenta de construir y arriesgada, pero reescribe el final."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Fecha de lanzamiento y plataformas de Militsioner",
+          "description": "Reúne la última ventana de lanzamiento anunciada, las plataformas compatibles, la disponibilidad de la demo y las novedades de desarrollo, y explica cómo añadir el juego a deseados y seguir los anuncios sin confundir la fecha de la demo con el lanzamiento completo.",
+          "href": "/guide/militsioner-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "2027",
+              "detail": "El juego completo está previsto para 2027."
+            },
+            {
+              "label": "Demo",
+              "detail": "Una demo gratuita de Steam se publicó el 8 de octubre de 2026."
+            },
+            {
+              "label": "Steam",
+              "detail": "Añade el juego completo a deseados para recibir avisos el día del lanzamiento."
+            },
+            {
+              "label": "Consolas",
+              "detail": "Todavía no se ha confirmado ninguna versión para consolas."
+            },
+            {
+              "label": "Playtest",
+              "detail": "El acceso al playtest se ha ofrecido mediante registros en Steam."
+            },
+            {
+              "label": "Novedades",
+              "detail": "Sigue los anuncios de Steam para no perderte cambios en la ventana de lanzamiento."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Requisitos del sistema y ajustes de Militsioner",
+          "description": "Resume los requisitos de PC publicados, los idiomas compatibles, la compatibilidad con mando y la información de la demo, y separa las especificaciones confirmadas de los detalles que aún no se han anunciado.",
+          "href": "/platforms/militsioner-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "CPU",
+              "detail": "Mínimo indicado: Intel Core 2 Duo E8400 o equivalente."
+            },
+            {
+              "label": "GPU",
+              "detail": "Mínimo indicado: NVIDIA GeForce 510 o equivalente."
+            },
+            {
+              "label": "RAM",
+              "detail": "Mínimo indicado: 4 GB de memoria instalada."
+            },
+            {
+              "label": "Almacenamiento",
+              "detail": "Mínimo indicado: 20 GB de espacio libre en disco."
+            },
+            {
+              "label": "SO",
+              "detail": "Aún no publicado; se espera Windows para PC."
+            },
+            {
+              "label": "Idiomas",
+              "detail": "La demo indica 16 idiomas de interfaz compatibles."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Militsioner",
+      "description": "Respuestas rápidas a las preguntas más habituales sobre Militsioner.",
+      "items": [
+        {
+          "question": "¿Qué es Militsioner?",
+          "answer": "Militsioner es un sim inmersivo en primera persona de TALLBOYS y CRITICAL REFLEX. Te arrestan en un pueblo surrealista y debes escapar mientras un policía colosal vigila cada uno de tus movimientos."
+        },
+        {
+          "question": "¿Hay una demo de Militsioner?",
+          "answer": "Sí. Una demo gratuita de Militsioner se publicó en Steam el 8 de octubre de 2026 y es la mejor forma de aprender los sistemas de sigilo y estado de ánimo antes del lanzamiento completo."
+        },
+        {
+          "question": "¿Cuándo sale Militsioner?",
+          "answer": "Militsioner está previsto para 2027 en PC a través de Steam. El día exacto aún no está confirmado, así que añádelo a deseados para recibir un aviso."
+        },
+        {
+          "question": "¿Cómo se escapa en Militsioner?",
+          "answer": "Escapar en Militsioner significa planificar una ruta, leer el estado de ánimo del policía gigante y reunir las herramientas o documentos que desbloquean la estación de tren y otras salidas."
+        },
+        {
+          "question": "¿Se puede conquistar al policía gigante en Militsioner?",
+          "answer": "Sí. La ruta romántica de Militsioner te permite ganarte al policía colosal con regalos y flores, lo que abre un final distinto al de un escape directo."
+        },
+        {
+          "question": "¿En qué plataformas está Militsioner?",
+          "answer": "Militsioner está confirmado para PC en Steam, con una demo gratuita ya disponible. No se ha anunciado ninguna versión para consolas."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para escapar de Militsioner?",
+      "description": "Desde tu primera noche en el pueblo hasta burlar al policía gigante, nuestra wiki comunitaria te acompaña con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Añadir a deseados en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías y paso a paso de Militsioner",
+    "overviewDescription": "Guías paso a paso de Militsioner que cubren lo básico para principiantes, las rutas de escape, todos los finales y una guía completa de la demo."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas y soluciones de puzles de Militsioner",
+    "overviewDescription": "Cómo funcionan los sistemas de sigilo, voz y puzles de Militsioner: códigos de cajas fuertes, llaves del casillero del capitán y del garaje, pago de multas, romance y documentos secretos."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y reparto de Militsioner",
+    "overviewDescription": "Conoce al policía gigante y al resto del reparto de Militsioner: nombres, altura del policía, actores de doblaje y cómo reacciona cada personaje ante ti."
+  },
+  "story": {
+    "overviewTitle": "Historia, trasfondo y finales de Militsioner",
+    "overviewDescription": "De qué trata realmente Militsioner: la trama, el trasfondo kafkiano, el significado del pueblo y los finales explicados."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas y requisitos de Militsioner",
+    "overviewDescription": "Todas las plataformas a las que llega Militsioner — Steam, PS5, Xbox, Nintendo Switch y Steam Deck — además de los requisitos del sistema y la disponibilidad de la demo."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y novedades de Militsioner",
+    "overviewDescription": "Dónde se reúne la comunidad de Militsioner: el subreddit, el Discord, las noticias de playtest y las últimas notas de parches y actualizaciones."
+  },
+  "media": {
+    "overviewTitle": "Jugabilidad, tráilers y banda sonora de Militsioner",
+    "overviewDescription": "Mira Militsioner en acción: tráilers oficiales, imágenes de jugabilidad, partidas completas de la demo y la banda sonora."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "updated": "Actualizado",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!",
+    "beginnerGuide": "Guía para principiantes de Militsioner",
+    "escapeGuide": "Cómo escapar de Militsioner",
+    "viewAllGuides": "Ver todas las guías"
+  },
+  "footer": {
+    "aboutTitle": "Militsioner Wiki",
+    "about": "Militsioner Wiki es un centro de guías independiente creado por fans que cubre rutas de escape, estrategias de sigilo, mecánicas del policía gigante, soluciones de puzles y novedades de la demo, tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Militsioner Wiki. Sin relación con TALLBOYS.",
+    "description": "Terror de sigilo en primera persona donde un policía gigante vigila cada uno de tus movimientos. Guías de escape, trucos de la demo y soluciones de puzles.",
+    "playGame": "Añadir a deseados en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "characterGuides": "Guías de personajes",
+    "storyGuides": "Historia y trasfondo",
+    "mechanicsGuides": "Guías de mecánicas",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

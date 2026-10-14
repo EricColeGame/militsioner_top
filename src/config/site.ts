@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@TALLBOYS",
     twitter: "https://x.com/mytallboys",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ru", "ja", "es"],
   defaultLocale: "en",
 };

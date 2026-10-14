@@ -1,1 +1,538 @@
-{}
+{
+  "site": {
+    "name": "Militsioner 攻略・Wiki",
+    "shortName": "Militsioner",
+    "tagline": "脱出ガイド、ステルスのコツ、巨大警官のメカニクス",
+    "description": "Militsioner の総合ガイド。脱出ルート、ステルス戦略、巨大警官の挙動、パズルの答え、NPC との交流、デモの最新情報をまとめています。",
+    "legalNotice": "非公式のファン Wiki です。TALLBOYS とは関係ありません。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "characters": "キャラクター",
+    "story": "ストーリー",
+    "platforms": "対応機種",
+    "community": "コミュニティ",
+    "media": "メディア"
+  },
+  "home": {
+    "meta": {
+      "title": "Militsioner Wiki — 脱出ガイド・ゲームプレイ・攻略のコツ",
+      "description": "Militsioner を徹底解説。脱出ガイド、ステルスのコツ、巨大警官の挙動、パズルの答え、ゲームメカニクス、デモの最新情報、リリース情報まで網羅します。"
+    },
+    "hero": {
+      "eyebrow": "雰囲気重視のステルス・イマーシブシム",
+      "title": "Militsioner Wiki",
+      "description": "巨大な警官が見守るシュールな町を探索しよう。脱出ルート、ステルス戦略、パズルの答え、NPC との交流、ゲームメカニクス、そして Militsioner のデモとリリースに関する最新情報を紹介します。",
+      "stats": [
+        "2027年リリース予定",
+        "デモ好評率98%",
+        "デモレビュー176件",
+        "デモ対応16言語"
+      ],
+      "primaryCta": "初心者向け脱出ガイド",
+      "secondaryCta": "ステルスと脱出のコツ",
+      "tertiaryCta": "Steam でウィッシュリスト登録",
+      "videoLabel": "Militsioner 公式ゲームプレイ"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "Militsioner の歩き方",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "初めて脱出を試す前に、監視・注目・巨大警官の機嫌の仕組みを理解しましょう。"
+        },
+        {
+          "number": "2",
+          "title": "脱出の方法",
+          "description": "町から出るルートを計画し、巨大警官の動きに合わせて行動し、独房送りになるミスを避けましょう。"
+        },
+        {
+          "number": "3",
+          "title": "巨大警官の挙動",
+          "description": "彼の感情を読み、何を覚えているのかを学び、その機嫌を脱出のチャンスに変えましょう。"
+        },
+        {
+          "number": "4",
+          "title": "デモのダウンロード",
+          "description": "2026年10月8日に配信された無料の Steam デモを入手し、自分の PC で動くか確認しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "脱出の方法",
+        "巨大警官",
+        "全エンディング"
+      ],
+      "cards": [
+        {
+          "badge": "初心者向け",
+          "title": "Militsioner 初心者ガイド",
+          "description": "最初の1時間に必要な要点。注目、音声の仕組み、巨人の視線を避ける立ち回りを解説します。",
+          "href": "/guide/militsioner-beginner-guide"
+        },
+        {
+          "badge": "更新済み",
+          "title": "Militsioner 脱出の方法",
+          "description": "巨大警官の機嫌を読み、正しいルートを選び、すべてを記憶する町に備えましょう。",
+          "href": "/guide/militsioner-how-to-escape"
+        },
+        {
+          "badge": "人気",
+          "title": "Militsioner 巨大警官",
+          "description": "巨大警官とは何者か、どう反応し、何を覚え、どうやってかわすのかを解説します。",
+          "href": "/characters/militsioner-giant-policeman"
+        },
+        {
+          "badge": "人気",
+          "title": "Militsioner 全エンディング",
+          "description": "汽車での穏当な脱出からロマンスの結末まで、すべての脱出ルートと秘密の出口を紹介します。",
+          "href": "/guide/militsioner-all-endings"
+        },
+        {
+          "badge": "新着",
+          "title": "Militsioner 攻略チャート",
+          "description": "ステルスのタイミング、音声コマンド、巨人のかわし方をまとめた脱出ループの手順です。",
+          "href": "/guide/militsioner-walkthrough"
+        },
+        {
+          "badge": "更新済み",
+          "title": "Militsioner 金庫の暗証番号",
+          "description": "確認済みの情報、プレイヤーの報告、巨大警官からの脱出シムで金庫を開ける方法をまとめました。",
+          "href": "/mechanics/militsioner-safe-code"
+        },
+        {
+          "badge": "人気",
+          "title": "Militsioner 発売日",
+          "description": "2027年の発売時期、無料デモ、プレイテスト参加、これまでに確認されたすべての情報。",
+          "href": "/guide/militsioner-release-date"
+        },
+        {
+          "badge": "新着",
+          "title": "Militsioner 動作環境",
+          "description": "公開されている最低スペック、まだ未発表の項目、自分の PC で動くかを確認する方法。",
+          "href": "/platforms/militsioner-system-requirements"
+        },
+        {
+          "badge": "人気",
+          "title": "Militsioner Steam ページ",
+          "description": "製品版をウィッシュリストに追加し、デモの更新を追い、公式ストアページを確認しましょう。",
+          "href": "/platforms/militsioner-steam"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Militsioner とは？",
+      "paragraphs": [
+        "Militsioner は、開発 TALLBOYS、パブリッシャー CRITICAL REFLEX による一人称イマーシブシムです。覚えのない罪で逮捕されたあなたは、屋根の上から巨大な警官に見張られるシュールな町で目を覚まします。戦闘は答えではありません。彼の機嫌を読み、持ち上げ、欺き、あるいは恋愛関係を築きながら、町から出る方法を探るのです。",
+        "無料デモは2026年10月8日に Steam で配信され、製品版は2027年の発売が予定されています。当 Wiki では脱出ループ、巨大警官の挙動、NPC との関係、パズルの答え、町から出るすべてのルートを、デモで検証したコツと手順つきで紹介します。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "TALLBOYS"
+        },
+        {
+          "label": "パブリッシャー",
+          "value": "CRITICAL REFLEX"
+        },
+        {
+          "label": "対応機種",
+          "value": "PC（Steam）"
+        },
+        {
+          "label": "ジャンル",
+          "value": "イマーシブシム"
+        },
+        {
+          "label": "発売時期",
+          "value": "2027年"
+        },
+        {
+          "label": "デモ配信",
+          "value": "2026年10月8日"
+        },
+        {
+          "label": "デモ評価",
+          "value": "好評98%"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Militsioner Wiki を探索",
+      "description": "デモの基本や脱出ルートから、巨大警官の機嫌、NPC との関係、動作環境まで、Militsioner のすべてのシステムを一か所で確認できます。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Militsioner デモガイド",
+          "description": "無料デモの始め方をサポートします。Steam での入手方法、序盤の目標の理解、町の探索の始め方を扱い、脱出の前提、主要な操作、新しい挑戦を始める前に知っておくべきことを説明します。",
+          "href": "/guide/militsioner-demo-download",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Steam ページから無料の Militsioner デモをダウンロードし、ライブラリから起動します。"
+            },
+            {
+              "label": "2",
+              "detail": "脱出の前提となる冒頭の逮捕シーンを視聴し、町の雰囲気をつかみます。"
+            },
+            {
+              "label": "3",
+              "detail": "歩行、インタラクト、巨大警官からの隠れ方といった基本操作を試します。"
+            },
+            {
+              "label": "4",
+              "detail": "計画を立てる前に、巨人があなたの声や動きにどう反応するかを学びます。"
+            },
+            {
+              "label": "5",
+              "detail": "町を下見し、鍵のかかった扉、安全な場所、次の挑戦で使えるアイテムを記録します。"
+            },
+            {
+              "label": "6",
+              "detail": "デモのビルドは頻繁に変わるため、Steam ページでパッチノートを確認しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Militsioner 脱出ガイド",
+          "description": "あなたの行動を監視する巨大警官を避けながら町から脱出するという主目標を扱います。脱出ルートの下見、移動の計画、資源の活用、計画が崩れたときの立て直し方を説明します。",
+          "href": "/guide/militsioner-how-to-escape",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "注目を集める前に、町の構造を把握しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "巨大警官の機嫌を読み、彼が落ち着いているときに移動します。"
+            },
+            {
+              "label": "3",
+              "detail": "新しい脱出手段を解放する道具、現金、書類を集めます。"
+            },
+            {
+              "label": "4",
+              "detail": "ルートを選びます。駅、排水トンネル、あるいは隠された出口。"
+            },
+            {
+              "label": "5",
+              "detail": "計画が崩れ、巨人が近づいてきたときは臨機応変に対応します。"
+            },
+            {
+              "label": "6",
+              "detail": "学んだことを活かし、次の挑戦ではより安全なルートで再挑戦します。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Militsioner ゲームメカニクス",
+          "description": "ステルス、探索、窃盗、取引、侵入、環境との相互作用といったイマーシブシムの中核メカニクスと、プレイヤーの判断が町や脱出の可能性にどう影響するかを解説します。",
+          "href": "/guide/militsioner-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ステルス",
+              "detail": "巨人の視線に入らず、彼が目を離したときに動きましょう。"
+            },
+            {
+              "label": "取引",
+              "detail": "町の人と物々交換して、現金や役立つアイテムを手に入れます。"
+            },
+            {
+              "label": "賄賂",
+              "detail": "適切な相手に支払って、扉や情報を開きます。"
+            },
+            {
+              "label": "侵入",
+              "detail": "タイミングを見計らい、鍵のかかった家、店、事務所に入ります。"
+            },
+            {
+              "label": "音声",
+              "detail": "話しかけて巨大警官を持ち上げたり、欺いたり、挑発したりします。"
+            },
+            {
+              "label": "探索",
+              "detail": "鍵、書類、隠しルートを求めてすべての建物を調べましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Militsioner 巨大警官ガイド",
+          "description": "最大の脅威である巨大警官を紹介し、彼の感情と反応が脱出の試みをどう左右するかを解説します。監視、注目の回避、機嫌の管理、隠れるべきタイミングや計画変更の判断を扱います。",
+          "href": "/characters/militsioner-giant-policeman",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "機嫌",
+              "detail": "彼の感情状態によって、あなたを監視する厳しさが変わります。"
+            },
+            {
+              "label": "記憶",
+              "detail": "彼は過去の挑戦でのあなたの行動を覚えていて、それに反応します。"
+            },
+            {
+              "label": "視線",
+              "detail": "早めに視線を切らないと、町中であなたを追跡してきます。"
+            },
+            {
+              "label": "怒り",
+              "detail": "彼を挑発すると脱出の選択肢が減り、追跡が始まります。"
+            },
+            {
+              "label": "お世辞",
+              "detail": "称賛や贈り物は、彼が苛立っているときの鎮静に効きます。"
+            },
+            {
+              "label": "隠れる",
+              "detail": "路地、建物内、屋根を使って彼の注意をそらしましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Militsioner NPC と関係ガイド",
+          "description": "会話、贈り物、賄賂などの選択を通じた町の人との関わり方と、キャラクターの機嫌や日々のスケジュールが交流や町からの別ルートにどう影響するかを解説します。",
+          "href": "/mechanics/militsioner-romance",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "会話",
+              "detail": "町の人と話して、サブ目標やヒントを引き出しましょう。"
+            },
+            {
+              "label": "贈り物",
+              "detail": "相手の機嫌に合ったアイテムを渡して信頼を築きます。"
+            },
+            {
+              "label": "賄賂",
+              "detail": "金銭や便宜は、ステルスでは開かない扉を開きます。"
+            },
+            {
+              "label": "花",
+              "detail": "花を集めて、巨人とのロマンスルートを進めましょう。"
+            },
+            {
+              "label": "スケジュール",
+              "detail": "日々の行動を把握し、適切なタイミングで相手に会いましょう。"
+            },
+            {
+              "label": "信頼",
+              "detail": "関係のレベルによって、到達できるエンディングが変わります。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Militsioner 脱出ルート",
+          "description": "駅や排水トンネルから隠された出口、ロマンスの結末まで、町から出る既知の方法を整理し、十分な準備ができたときの信頼度でランク付けします。",
+          "href": "/guide/militsioner-all-endings",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "駅からの出発。記録がクリーンなときに確認されている最もスマートな脱出方法です。"
+            },
+            {
+              "label": "A",
+              "detail": "排水トンネル。巨人の機嫌を管理して浸水を制御できれば安定します。"
+            },
+            {
+              "label": "B",
+              "detail": "隠された出口と秘密ルート。強力ですが、下見なしでは見逃しやすいです。"
+            },
+            {
+              "label": "C",
+              "detail": "ロマンスルート。時間がかかり危険ですが、結末を書き換えます。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Militsioner 発売日と対応機種",
+          "description": "最新の発表済み発売時期、対応プラットフォーム、デモの有無、開発の最新情報をまとめ、デモの日付と製品版の発売を混同せずにウィッシュリスト登録や発表の追い方を説明します。",
+          "href": "/guide/militsioner-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "2027年",
+              "detail": "製品版は2027年の発売が予定されています。"
+            },
+            {
+              "label": "デモ",
+              "detail": "無料の Steam デモが2026年10月8日に配信されました。"
+            },
+            {
+              "label": "Steam",
+              "detail": "製品版をウィッシュリストに追加すると、発売日に通知が届きます。"
+            },
+            {
+              "label": "コンシューマー",
+              "detail": "コンシューマー版はまだ確認されていません。"
+            },
+            {
+              "label": "プレイテスト",
+              "detail": "プレイテストの参加権は Steam での応募を通じて提供されています。"
+            },
+            {
+              "label": "更新情報",
+              "detail": "発売時期の変更は Steam の告知で確認しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Militsioner 動作環境と設定",
+          "description": "公開されている PC の動作環境、対応言語、コントローラー対応、デモ情報をまとめ、確認済みの仕様とまだ発表されていない項目を分けて説明します。",
+          "href": "/platforms/militsioner-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "CPU",
+              "detail": "記載されている最低要件：Intel Core 2 Duo E8400 相当。"
+            },
+            {
+              "label": "GPU",
+              "detail": "記載されている最低要件：NVIDIA GeForce 510 相当。"
+            },
+            {
+              "label": "メモリ",
+              "detail": "記載されている最低要件：実装メモリ 4 GB。"
+            },
+            {
+              "label": "ストレージ",
+              "detail": "記載されている最低要件：空き容量 20 GB。"
+            },
+            {
+              "label": "OS",
+              "detail": "まだ公開されていませんが、PC では Windows が想定されています。"
+            },
+            {
+              "label": "言語",
+              "detail": "デモでは 16 のインターフェース言語が記載されています。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Militsioner よくある質問",
+      "description": "Militsioner についてよく寄せられる質問への手早い回答。",
+      "items": [
+        {
+          "question": "Militsioner とはどんなゲーム？",
+          "answer": "Militsioner は TALLBOYS と CRITICAL REFLEX による一人称イマーシブシムです。シュールな町で逮捕され、巨大な警官に見張られながら脱出を目指します。"
+        },
+        {
+          "question": "Militsioner のデモはありますか？",
+          "answer": "はい。無料の Militsioner デモが2026年10月8日に Steam で配信されました。製品版の前にステルスと機嫌のシステムを学ぶのに最適です。"
+        },
+        {
+          "question": "Militsioner の発売日はいつ？",
+          "answer": "Militsioner は PC（Steam）向けに2027年の発売が予定されています。正確な日付はまだ確定していないため、ウィッシュリスト登録で通知を受け取りましょう。"
+        },
+        {
+          "question": "Militsioner で脱出するには？",
+          "answer": "Militsioner の脱出は、ルートを計画し、巨大警官の機嫌を読み、駅やその他の出口を解放する道具や書類を集めることです。"
+        },
+        {
+          "question": "Militsioner で巨大警官と恋愛できますか？",
+          "answer": "はい。Militsioner のロマンスルートでは、贈り物や花で巨大警官の心をつかむことができ、単純な脱出とは異なるエンディングが解放されます。"
+        },
+        {
+          "question": "Militsioner の対応プラットフォームは？",
+          "answer": "Militsioner は PC（Steam）での発売が確認されており、無料デモが配信中です。コンシューマー版は発表されていません。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Militsioner から脱出する準備はできた？",
+      "description": "町での最初の夜から巨人を出し抜くところまで、コミュニティ Wiki が無料で最新のガイドをお届けします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でウィッシュリスト登録"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Militsioner ガイドと攻略",
+    "overviewDescription": "初心者の基本、脱出ルート、全エンディング、デモの完全攻略までを扱う Militsioner の手順つきガイド。"
+  },
+  "mechanics": {
+    "overviewTitle": "Militsioner メカニクスとパズルの答え",
+    "overviewDescription": "Militsioner のステルス、音声、パズルの仕組みを解説。金庫の暗証番号、警部のロッカーとガレージの鍵、罰金の支払い、ロマンス、秘密の書類まで。"
+  },
+  "characters": {
+    "overviewTitle": "Militsioner キャラクター紹介",
+    "overviewDescription": "巨大警官をはじめとする Militsioner の登場人物を紹介。名前、警官の身長、声優、各キャラクターの反応をまとめています。"
+  },
+  "story": {
+    "overviewTitle": "Militsioner ストーリー・世界観・エンディング",
+    "overviewDescription": "Militsioner の本質に迫ります。物語、カフカ的な世界観、町が意味するもの、そして全エンディングの解説。"
+  },
+  "platforms": {
+    "overviewTitle": "Militsioner 対応機種と動作環境",
+    "overviewDescription": "Militsioner が登場するすべてのプラットフォーム — Steam、PS5、Xbox、Nintendo Switch、Steam Deck — と動作環境、デモの有無をまとめました。"
+  },
+  "community": {
+    "overviewTitle": "Militsioner コミュニティと更新情報",
+    "overviewDescription": "Militsioner のコミュニティが集まる場所。サブレディット、Discord、プレイテストのニュース、最新のパッチとアップデート情報。"
+  },
+  "media": {
+    "overviewTitle": "Militsioner ゲームプレイ・トレーラー・サウンドトラック",
+    "overviewDescription": "Militsioner の実際のプレイをチェック。公式トレーラー、ゲームプレイ映像、デモの完全プレイ動画、サウンドトラックを紹介します。"
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "updated": "更新日",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくお待ちください！",
+    "beginnerGuide": "Militsioner 初心者ガイド",
+    "escapeGuide": "Militsioner の脱出方法",
+    "viewAllGuides": "すべてのガイドを見る"
+  },
+  "footer": {
+    "aboutTitle": "Militsioner Wiki",
+    "about": "Militsioner Wiki は、脱出ルート、ステルス戦略、巨大警官のメカニクス、パズルの答え、デモの更新情報を扱う独立したファン運営のガイド拠点です。初心者にもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Militsioner Wiki. TALLBOYS とは関係ありません。",
+    "description": "巨大な警官があなたの一挙手一投足を見張る一人称ステルスホラー。脱出ガイド、デモのコツ、パズルの答えを掲載。",
+    "playGame": "Steam でウィッシュリスト登録",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "beginnerGuide": "初心者ガイド",
+    "characterGuides": "キャラクターガイド",
+    "storyGuides": "ストーリーと世界観",
+    "mechanicsGuides": "メカニクスガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
