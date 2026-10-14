@@ -257,14 +257,40 @@ const GROUP_TITLES_JA: Record<string, string> = {
   media: "メディア",
 };
 
+// 俄文分组标题映射
+const GROUP_TITLES_RU: Record<string, string> = {
+  guide: "С чего начать",
+  mechanics: "Механики и секреты",
+  characters: "Персонажи",
+  story: "Сюжет и лор",
+  platforms: "Платформы",
+  community: "Сообщество",
+  media: "Медиа и геймплей",
+};
+
+// 西班牙文分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Primeros pasos",
+  mechanics: "Mecánicas y secretos",
+  characters: "Personajes",
+  story: "Historia y lore",
+  platforms: "Plataformas",
+  community: "Comunidad",
+  media: "Multimedia y gameplay",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  ru: GROUP_TITLES_RU,
+  es: GROUP_TITLES_ES,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  ru: "Обзор",
+  es: "Resumen",
 };
 
 // 分组排序顺序（必须与 NAVIGATION_CONFIG 的分类 slug 一致）
