@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn how observation, attention, and the giant policeman's moods work before you make your first escape attempt."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "How to Escape",
+          "description": "Plan a route out of town, time your moves around the Colossal Policeman, and avoid the mistakes that send you back to a cell."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Giant Policeman Behavior",
+          "description": "Read his emotions, learn what he remembers, and turn his moods into openings you can use to slip away."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Militsioner."
+          "title": "Demo Download",
+          "description": "Grab the free Steam demo that went live on October 8, 2026, and check whether your PC can run Militsioner."
         }
       ]
     },
@@ -66,265 +66,395 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "How to Escape",
+        "Giant Policeman",
+        "All Endings"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Militsioner Beginner Guide",
+          "description": "The essentials for your first hour: attention, voice mechanics, and a plan for staying out of the giant's gaze.",
+          "href": "/guide/militsioner-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Militsioner How to Escape",
+          "description": "Read the Colossal Policeman's moods, pick the right route, and plan for a town that remembers everything.",
+          "href": "/guide/militsioner-how-to-escape"
+        },
+        {
+          "badge": "Popular",
+          "title": "Militsioner Giant Policeman",
+          "description": "Who the Colossal Policeman is, how he reacts, what he remembers, and how to get past him.",
+          "href": "/characters/militsioner-giant-policeman"
+        },
+        {
+          "badge": "Popular",
+          "title": "Militsioner All Endings",
+          "description": "Every escape route and secret exit, from clean train departures to the romance finale.",
+          "href": "/guide/militsioner-all-endings"
+        },
+        {
+          "badge": "New",
+          "title": "Militsioner Walkthrough",
+          "description": "A step-by-step escape loop covering stealth timing, voice commands, and slipping past the giant.",
+          "href": "/guide/militsioner-walkthrough"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Militsioner Safe Code",
+          "description": "What is confirmed, what players report, and how to crack safes in the giant-policeman escape sim.",
+          "href": "/mechanics/militsioner-safe-code"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Militsioner Release Date",
+          "description": "The 2027 release window, the free demo, playtest access, and everything confirmed so far.",
+          "href": "/guide/militsioner-release-date"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Militsioner System Requirements",
+          "description": "Listed minimum specs, what is still unannounced, and how to check if your PC can run it.",
+          "href": "/platforms/militsioner-system-requirements"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Militsioner Steam Page",
+          "description": "Wishlist the full game, follow demo updates, and check the official store listing.",
+          "href": "/platforms/militsioner-steam"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Militsioner?",
       "paragraphs": [
-        "Militsioner is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Militsioner is a first-person immersive sim from developer TALLBOYS and publisher CRITICAL REFLEX. You wake up in a surreal town under arrest for a crime you cannot remember, while a colossal policeman watches your every move from the rooftops. Combat is not the answer: you escape by reading his moods, flattering, deceiving, or even romancing him while you work out a way out of town.",
+        "A free demo went live on Steam on October 8, 2026, and the full game is planned for a 2027 release window. Our wiki covers the escape loop, the giant policeman's behavior, NPC relationships, puzzle solutions, and every route out of town, with demo-tested tips and step-by-step walkthroughs."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "TALLBOYS"
+        },
+        {
+          "label": "Publisher",
+          "value": "CRITICAL REFLEX"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Immersive Sim"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release Window",
+          "value": "2027"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Demo Launch",
+          "value": "Oct 8, 2026"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Demo Rating",
+          "value": "98% Positive"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Militsioner Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Browse every Militsioner system in one place, from demo basics and escape routes to the giant policeman's moods, NPC relationships, and system requirements.",
       "modules": [
         {
           "order": 1,
-          "name": "Militsioner Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/Militsioner-codes",
-          "displayType": "code-box",
+          "name": "Militsioner Demo Guide",
+          "description": "Help players get started with the free demo, including how to access it on Steam, understand the opening objectives, and begin exploring the town. Explain the basic escape premise, key interactions, and what to know before starting a new attempt.",
+          "href": "/guide/militsioner-demo-download",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Download the free Militsioner demo from its Steam page and launch it from your library."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Sit through the opening arrest that sets up the escape and introduces the town."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Test the basics: walking, interacting, and hiding from the Colossal Policeman."
+            },
+            {
+              "label": "4",
+              "detail": "Learn how the giant reacts to your voice and movement before you commit to a plan."
+            },
+            {
+              "label": "5",
+              "detail": "Scout the town and note locked doors, safe spots, and useful items for a later run."
+            },
+            {
+              "label": "6",
+              "detail": "Check the Steam page for patch notes, since demo builds keep changing."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/Militsioner-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Militsioner Escape Guide",
+          "description": "Cover the main objective of escaping the town while avoiding the giant policeman who monitors your actions. Explain scouting escape routes, planning movements, using resources, and adapting when a plan falls apart.",
+          "href": "/guide/militsioner-how-to-escape",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Learn the town layout before you draw any attention."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Read the Colossal Policeman's mood and move when he is calm."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Gather tools, cash, and documents that unlock new escape options."
+            },
+            {
+              "label": "4",
+              "detail": "Choose a route: the train station, the drainage tunnels, or a hidden exit."
+            },
+            {
+              "label": "5",
+              "detail": "Adapt when plans collapse and the giant closes in on your position."
+            },
+            {
+              "label": "6",
+              "detail": "Bank what you learned and retry with a cleaner route next run."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/Militsioner-tier-list",
-          "displayType": "tier-grid",
+          "name": "Militsioner Gameplay Mechanics",
+          "description": "Explain the core immersive simulation mechanics, including stealth, exploration, theft, trading, breaking into locations, and interacting with the environment, and how player decisions affect the town and the opportunities to escape.",
+          "href": "/guide/militsioner-how-to-play",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Stealth",
+              "detail": "Stay out of the giant's line of sight and move when he looks away."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Trade",
+              "detail": "Swap goods with townspeople to earn cash and useful items."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Bribe",
+              "detail": "Pay off the right person to unlock doors or information."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Break In",
+              "detail": "Pick your moment to enter locked homes, shops, and offices."
+            },
+            {
+              "label": "Voice",
+              "detail": "Use speech to flatter, deceive, or provoke the Colossal Policeman."
+            },
+            {
+              "label": "Explore",
+              "detail": "Search every building for keys, documents, and hidden routes."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/Militsioner-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Militsioner Giant Policeman Guide",
+          "description": "Introduce the giant policeman as the central threat and explain how his emotions and reactions shape your escape attempts, covering observation, avoiding attention, managing his mood, and knowing when to hide or change plans.",
+          "href": "/characters/militsioner-giant-policeman",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Moods",
+              "detail": "His emotional state decides how aggressively he watches you."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Memory",
+              "detail": "He remembers what you did on earlier runs and reacts to it."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Gaze",
+              "detail": "Break line of sight early or he will track you across town."
+            },
+            {
+              "label": "Anger",
+              "detail": "Provoking him closes escape options and starts a chase."
+            },
+            {
+              "label": "Flattery",
+              "detail": "Praise and gifts can calm him when he is on edge."
+            },
+            {
+              "label": "Hiding",
+              "detail": "Use alleys, interiors, and rooftops to drop his attention."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/Militsioner-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Militsioner NPC and Relationship Guide",
+          "description": "Explain how to interact with townspeople through dialogue, gifts, bribery, and other choices, and how character moods and daily schedules influence interactions and open alternative routes out of town.",
+          "href": "/mechanics/militsioner-romance",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Dialogue",
+              "detail": "Talk to townspeople to open side objectives and hints."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Gifts",
+              "detail": "Give items that match a character's mood to build trust."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Bribery",
+              "detail": "Money and favors unlock doors that stealth cannot."
+            },
+            {
+              "label": "Flowers",
+              "detail": "Collect flowers to advance the romance route with the giant."
+            },
+            {
+              "label": "Schedules",
+              "detail": "Track daily routines to catch characters at the right time."
+            },
+            {
+              "label": "Trust",
+              "detail": "Relationship levels change which endings are available."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/Militsioner-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Militsioner Escape Routes",
+          "description": "Organize the known ways out of town, from the train station and drainage tunnels to hidden exits and the romance finale, and rank them by how reliable each one is once you have the right preparation.",
+          "href": "/guide/militsioner-all-endings",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Train station departure: the cleanest confirmed way out when your record is clear."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Drainage tunnels: reliable once you control the flood by managing the giant's mood."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Hidden exits and secret routes: powerful but easy to miss without scouting."
+            },
+            {
+              "label": "C",
+              "detail": "Romance route: slow to build and risky, but it rewrites the finale."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Militsioner Release Date and Platforms",
+          "description": "Provide the latest announced release window, supported platforms, demo availability, and development updates, and explain how to wishlist the full game and follow announcements without confusing the demo date with the full release.",
+          "href": "/guide/militsioner-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "2027",
+              "detail": "The full game is planned for a 2027 release window."
+            },
+            {
+              "label": "Demo",
+              "detail": "A free Steam demo went live on October 8, 2026."
+            },
+            {
+              "label": "Steam",
+              "detail": "Wishlist the full game to get launch-day alerts."
+            },
+            {
+              "label": "Consoles",
+              "detail": "No console version has been confirmed yet."
+            },
+            {
+              "label": "Playtest",
+              "detail": "Playtest access has been offered through Steam sign-ups."
+            },
+            {
+              "label": "Updates",
+              "detail": "Follow Steam announcements for release-window changes."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Militsioner System Requirements and Settings",
+          "description": "Summarize the listed PC system requirements, supported languages, controller support, and demo information, and separate confirmed specifications from details that have not yet been announced.",
+          "href": "/platforms/militsioner-system-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "CPU",
+              "detail": "Listed minimum: Intel Core 2 Duo E8400 or equivalent."
+            },
+            {
+              "label": "GPU",
+              "detail": "Listed minimum: NVIDIA GeForce 510 or equivalent."
+            },
+            {
+              "label": "RAM",
+              "detail": "Listed minimum: 4 GB of installed memory."
+            },
+            {
+              "label": "Storage",
+              "detail": "Listed minimum: 20 GB of free disk space."
+            },
+            {
+              "label": "OS",
+              "detail": "Not published yet; Windows is expected for PC."
+            },
+            {
+              "label": "Languages",
+              "detail": "The demo lists 16 supported interface languages."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Militsioner FAQ",
       "description": "Quick answers to the most common questions about Militsioner.",
       "items": [
         {
           "question": "What is Militsioner?",
-          "answer": "Militsioner is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Militsioner is a first-person immersive sim from TALLBOYS and CRITICAL REFLEX. You are arrested in a surreal town and must escape while a colossal policeman watches your every move."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is there a Militsioner demo?",
+          "answer": "Yes. A free Militsioner demo launched on Steam on October 8, 2026, and it is the best way to learn the stealth and mood systems before the full release."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "When does Militsioner release?",
+          "answer": "Militsioner is planned for a 2027 release window on PC via Steam. The exact day is not locked in yet, so wishlist the game to get an alert."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do you escape in Militsioner?",
+          "answer": "Escaping Militsioner means planning a route, reading the giant policeman's mood, and gathering the tools or documents that unlock the train station and other exits."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Can you romance the giant policeman in Militsioner?",
+          "answer": "Yes. The Militsioner romance route lets you win over the Colossal Policeman with gifts and flowers, opening a different ending than a straight escape."
+        },
+        {
+          "question": "What platforms is Militsioner on?",
+          "answer": "Militsioner is confirmed for PC on Steam, with a free demo available now. No console version has been announced."
         }
       ]
     },
