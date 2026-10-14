@@ -25,11 +25,13 @@ export const siteConfig: SiteConfig = {
   tagline: "Escape Guides, Stealth Tips & Giant Policeman Mechanics",
   description: "Your ultimate Militsioner guide: escape routes, stealth strategies, giant policeman behavior, puzzle solutions, NPC interactions and demo updates.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://militsioner.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://militsioner.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@militsioner.top",
   gameUrl: "https://store.steampowered.com/app/1373530/Militsioner/",
   heroVideoId: "9mTPzYaq95M", // MILITSIONER by TallBoys - 11 Minutes of New Gameplay (official)
   social: {
+    discord: "https://discord.gg/7gP2hCW",
     youtube: "https://www.youtube.com/@TALLBOYS",
+    twitter: "https://x.com/mytallboys",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
