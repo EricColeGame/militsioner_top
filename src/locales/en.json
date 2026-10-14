@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "story": "Story",
+    "platforms": "Platforms",
+    "community": "Community",
+    "media": "Media"
   },
   "home": {
     "meta": {
@@ -465,12 +472,37 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Militsioner Guides & Walkthroughs",
+    "overviewDescription": "Step-by-step Militsioner guides covering the beginner basics, escape routes, all endings, and a full walkthrough of the demo."
+  },
+  "mechanics": {
+    "overviewTitle": "Militsioner Mechanics & Puzzle Solutions",
+    "overviewDescription": "How Militsioner's stealth, voice, and puzzle systems work — safe codes, captain locker and garage keys, paying fines, romance, and secret documents."
+  },
+  "characters": {
+    "overviewTitle": "Militsioner Characters & Cast",
+    "overviewDescription": "Meet the Giant Policeman and the rest of the Militsioner cast: names, cop height, voice actors, and how each character reacts to you."
+  },
+  "story": {
+    "overviewTitle": "Militsioner Story, Lore & Endings",
+    "overviewDescription": "What Militsioner is really about: the plot, the Kafkaesque lore, the meaning behind the town, and the endings explained."
+  },
+  "platforms": {
+    "overviewTitle": "Militsioner Platforms & System Requirements",
+    "overviewDescription": "Every platform Militsioner is coming to — Steam, PS5, Xbox, Nintendo Switch, and Steam Deck — plus system requirements and demo availability."
+  },
+  "community": {
+    "overviewTitle": "Militsioner Community & Updates",
+    "overviewDescription": "Where the Militsioner community gathers: the subreddit, the Discord, playtest news, and the latest patch and update notes."
+  },
+  "media": {
+    "overviewTitle": "Militsioner Gameplay, Trailers & Soundtrack",
+    "overviewDescription": "Watch Militsioner in action: official trailers, gameplay footage, full demo playthroughs, and the soundtrack."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -481,7 +513,10 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "beginnerGuide": "Militsioner Beginner Guide",
+    "escapeGuide": "How to Escape Militsioner",
+    "viewAllGuides": "View all guides"
   },
   "footer": {
     "aboutTitle": "Militsioner Wiki",
@@ -494,11 +529,10 @@
     "playGame": "Wishlist on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Steam Community Discussions",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "characterGuides": "Character Guides",
+    "storyGuides": "Story & Lore",
+    "mechanicsGuides": "Mechanics Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

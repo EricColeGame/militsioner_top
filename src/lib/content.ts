@@ -237,24 +237,24 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  mechanics: "Mechanics & Secrets",
+  characters: "Characters",
+  story: "Story & Lore",
+  platforms: "Platforms",
+  community: "Community",
+  media: "Media & Gameplay",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  guide: "はじめに",
+  mechanics: "ゲームシステム",
+  characters: "キャラクター",
+  story: "ストーリー",
+  platforms: "対応プラットフォーム",
+  community: "コミュニティ",
+  media: "メディア",
 };
 
 // locale → 分组标题映射
@@ -267,9 +267,9 @@ const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
 };
 
-// 分组排序顺序
+// 分组排序顺序（必须与 NAVIGATION_CONFIG 的分类 slug 一致）
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "mechanics", "characters", "story", "platforms", "community", "media",
 ];
 
 /**
